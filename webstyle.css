@@ -1,4 +1,14 @@
-* {
-  color: grey;
-  bg-color: white;
+.topbg .top {
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
+
+.midbg .top {
+  background-color: rgb(240, 240, 240);
+  color: dimgrey;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  }
+
