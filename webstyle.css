@@ -12,3 +12,10 @@
   padding-bottom: 20px;
   }
 
+.midbg .bot {
+  background-color: rgb(240, 240, 240);
+  color: dimgrey;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}  
