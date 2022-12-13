@@ -3,6 +3,7 @@
 * {
   color: dimgrey;
   font-family: "arial", sans-serif;
+  box-sizing: border-box;
 }
 
 /* background style */
