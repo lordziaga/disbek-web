@@ -5,56 +5,42 @@
   font-family: "arial", sans-serif;
 }
 
-/* background style */
-.bg2 {
-  padding: 20px;
-}
-.bg1 {
-  background-color: rgb(240, 240, 240);
-  padding: 20px;
+
+/* container box */
+.d-flex {
   display: flex;
+}
+.justify-content-fe {
+  justify-content: flex-end
+}
+.justify-content-fs {
+  justify-content: flex-start
+}
+.container {
+  max-width: 1280px;
+  margin-right: auto;
+  margin-left: auto;
+}
+  .text-container {
+    margin-left: 200px;
+    margin-right: 200px; 
+}
+
+
+/* background style */
+.pd1x {
+  padding: 20px;
 }
 .border {
   background-color: 2px solid grey;
 }
-.navigation {
-  justify-content: flex-end;
-}
+
 
 /* text style */
-.text {
+.text-center {
   text-align: center;
 }
 
-.p1 {
-  margin-left: 400px; 
-  margin-right: 400px;
-}
-
-#list {
+.text-left {
   text-align: left;
-   
-}
-
-.text-list {
-  margin-left: 200px;
-  margin-right: 200px; 
-  
-  
-}
-
-/* image style */
-.topbg {
-  text-align: left;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  border-bottom: 2px solid grey;
-}
-
-.midbg.img {
-  padding: 20px;
-}
-
-.botbg .img {
-  padding: 20px;
 }
