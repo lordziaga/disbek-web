@@ -69,9 +69,10 @@
 .text-left {
   text-align: left;
 }
-.debug {
+/*.debug {
   border: solid black;
-}
+}*/
+
 .display {
   display: block;
   margin-left: auto;
