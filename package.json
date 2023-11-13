@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "fauzi",
-  "license": "ISC",
-  "dependencies": {
-    "moment": "^2.29.4"
-  }
+  "author": "Fauzi",
+  "license": "ISC"
 }
